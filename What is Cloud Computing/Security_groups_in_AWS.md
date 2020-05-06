@@ -18,4 +18,6 @@
         - In inbound rule we control incoming data traffic & this can done in inbound setting to allow perticular ports for incoming trafic.
 
     *2. Outbound rule:-*
-        - In outbound rule we control outgoing data traffic & this is done in outbound setting
+        - In outbound rule we control outgoing data traffic & this is done in outbound setting.
+        
+<src img="What is Cloud Computing/Security.jpeg">
