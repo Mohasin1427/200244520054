@@ -20,4 +20,4 @@
     *2. Outbound rule:-*
         - In outbound rule we control outgoing data traffic & this is done in outbound setting.
         
-<src img="What is Cloud Computing/Security.jpeg">
+<img src="Security.jpeg">
