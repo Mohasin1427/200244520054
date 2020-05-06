@@ -1,8 +1,11 @@
 ##What is "Cloud Computing"?
+
 It is simply computing the several resources of typical systems like CPU,Processor,RAM,database,softwares,Network Connectivities etc. over the "cloud"(Internet).
 
 ##Vendors of cloud computing:
- -Vendors are nothing but those who provide these computing features over the cloud.
+
+# -Vendors are nothing but those who provide these computing features over the cloud.
+ 
  -for example
    -> Amazon- AWS (Amazon Web Service)
    -> Microsoft- Azure
@@ -12,12 +15,11 @@ It is simply computing the several resources of typical systems like CPU,Process
    ->Alibaba etc.
 
 ##What are the "Types of CLOUD"?
-There are 3 types of cloud
-1. Private Cloud-
+#1. Private Cloud-
 	Cloud computing resources used by organisation i.e. it is owned by organisation. In private cloud services are maintenances on a private network.
-2. Public Cloud-
+#2. Public Cloud-
 	Anyone can use the cloud computing resources. Different vendors are present in the market to provide the services on rent basis. In public cloud hardware, software like all services are owned and managed by cloud provider.
-3. Hybrid Cloud-
+#3. Hybrid Cloud-
 	It consist of private and public both cloud services.
 What is AWS?
 	Amazon Web Services (AWS) is the platform which provides the computing resources for user on the basis of “Pay as you Go model”.
