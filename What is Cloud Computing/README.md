@@ -34,7 +34,7 @@ Vendors are nothing but those who provide these computing features over the clou
 	
 ## -> What is AWS?
 
-	Amazon Web Services (AWS) is the platform which provides the computing resources for user on the basis of “Pay as you Go model”.
+Amazon Web Services (AWS) is the platform which provides the computing resources for user on the basis of “Pay as you Go model”.
 Services for example- ec2, s3, IAM, RDS, etc.
 
 ## -> Advantages of AWS-
