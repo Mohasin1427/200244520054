@@ -6,11 +6,17 @@ It is simply computing the several resources of typical systems like CPU,Process
 
 Vendors are nothing but those who provide these computing features over the cloud. 
  -for example
+ 
    -> Amazon- AWS (Amazon Web Service)
+   
    -> Microsoft- Azure
+   
    -> Google - GCP (Google Cloud Platform)  
+   
    ->Oracle
+   
    ->IBM
+   
    ->Alibaba etc.
 
 # -What are the "Types of CLOUD"?
