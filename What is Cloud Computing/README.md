@@ -23,13 +23,12 @@ Vendors are nothing but those who provide these computing features over the clou
 # -> What are the "Types of CLOUD"?
 
 **1. Private Cloud-**
-
 	Cloud computing resources used by organisation i.e. it is owned by organisation. In private cloud services are maintenances on a private network.
+	
 **2. Public Cloud-**
-
 	Anyone can use the cloud computing resources. Different vendors are present in the market to provide the services on rent basis. In public cloud hardware, software like all services are owned and managed by cloud provider.
+	
 **3. Hybrid Cloud-**
-
 	It consist of private and public both cloud services.
 	
 ## -> What is AWS?
